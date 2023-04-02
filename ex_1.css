@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    background-image:linear-gradient(rgba(219, 144, 209,0.5),rgba(218, 250, 171,0.5)),url('images/19.jpg');
+
+}
+h1{
+        color:rgb(26, 24, 24);
+        text-align:center;
+        font-size:30px;
+        font-weight: bolder;
+   }
+p{
+    font-size:15px;
+    color:rgb(90, 4, 4);
+    
+}
